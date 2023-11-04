@@ -11,3 +11,4 @@ A Simple Program That Quick Start Application.
 
 # Depends
 - [Shaman.WinForms.Windows7Renderer](https://github.com/antiufo/Shaman.WinForms.Windows7Renderer)
+- [YamlDotNet](https://github.com/aaubry/YamlDotNet)
